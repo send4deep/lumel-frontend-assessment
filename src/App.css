@@ -1,0 +1,28 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+th,
+td {
+  border: 1px solid #ddd;
+  text-align: left;
+  padding: 10px;
+}
+th.val {
+  min-width: 110px;
+}
+input {
+  border: 1px solid #d0d0d0;
+  width: 80px;
+}
+button {
+  border: 1px solid #6d6c6c;
+  background-color: #d0d0d0;
+  width: 100%;
+}
